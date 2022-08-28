@@ -26,6 +26,7 @@
                     <div class="font-size-12 text-grey">Card Holder</div>
                     <div class="font-size-16">Greg G Tan</div>
                   </div>
+                  
 
                   <div class="">
                     <div class="font-size-12 text-grey">Expires</div>
