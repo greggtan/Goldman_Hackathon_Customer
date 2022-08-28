@@ -13,7 +13,7 @@
         /> -->
 
         <q-toolbar-title class="font-600 font-size-24">
-          NBC Dashboard - Greg G Tan
+          Pomona Credit Card Dashboard - Greg G Tan
         </q-toolbar-title>
 
         

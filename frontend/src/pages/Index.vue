@@ -13,7 +13,11 @@
             <!-- wifi div and card number -->
             <div class=" q-pa-md flex column justify-between no-wrap" style="z-index:2 !important;height:100%;position: relative;">
               <div class="">
-                <q-icon name="wifi" color="white" size="sm" class="q-mb-md"></q-icon>
+                <div class="flex justify-between items-center q-mb-md">
+                  <q-icon name="wifi" color="white" size="sm" class=""></q-icon>
+                  <img src="~assets/pomona.png" alt="" style="width:125px">
+                </div>
+                
                 <div class="font-500 font-size-20" style="color:white">4562   1122   4594   7852</div>
               </div>
 
